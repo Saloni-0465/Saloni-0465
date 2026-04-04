@@ -43,12 +43,17 @@ I'm a developer focused on **backend systems**, **machine learning**, and **appl
 
 ### GitHub activity
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Saloni-0465?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSaloni-0465&query=%24.public_repos&label=public%20repos&style=for-the-badge&logo=github&logoColor=white&color=1f6feb" alt="Public repositories" /></a>
+  <a href="https://github.com/Saloni-0465?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSaloni-0465&query=%24.followers&label=followers&style=for-the-badge&logo=github&logoColor=white&color=238636" alt="Followers" /></a>
+  <a href="https://github.com/Saloni-0465?tab=following"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSaloni-0465&query=%24.following&label=following&style=for-the-badge&logo=github&logoColor=white&color=8957e5" alt="Following" /></a>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saloni-0465&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saloni-0465&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/Saloni-0465"><strong>Profile</strong></a> ·
+  <a href="https://github.com/Saloni-0465?tab=repositories"><strong>Repositories</strong></a> ·
+  <a href="https://github.com/Saloni-0465?tab=achievements"><strong>Achievements</strong></a>
+</p>
 
 ---
 
