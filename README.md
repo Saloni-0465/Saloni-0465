@@ -6,6 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Saloni-0465?style=for-the-badge&logo=github&label=Followers&color=238636)](https://github.com/Saloni-0465?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-sharma-55773028b)
+[![View resume](https://img.shields.io/badge/View%20resume-F40F02?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Saloni-0465/Saloni-0465/raw/main/resume.pdf)
 
 </div>
 
